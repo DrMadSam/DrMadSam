@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @DrMadSam
-- 👀 I’m interested in Health Tech, Generative AI + Conversational AI, CRMs/EHRs, machine learning, automation + more.
-- 🌱 I’m currently learning product management. 
-- 💞️ I’m looking to collaborate on HealthTech projects. 
+- 👋 Hi, I’m Dr. Sam Madeira
+- 👀 Health Tech Focused & Customer Centric & Obsessed 
+- Subareas of interest: Health Data Analytics, Data Sci., AI/ML, automation, etc.
+- Certied Scrum Product Owner (CSPO) 
+- Excited to create positive impact via healthtech products
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/drsammadeira/ 
 
 <!---
