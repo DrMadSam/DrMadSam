@@ -1,6 +1,8 @@
-- 👋 Hi, I’m Dr. Sam Madeira
-- 👀 Health Tech Focused & Customer Centric & Obsessed
-- Subareas of interest: Health Data Analytics, Data Sci., AI/ML, automation, etc.
+- 👋 Hi, I’m Dr. Sam Madeira! 
+- 👀 SaaS B2B/B2C Health Tech Product Focused, Customer Centric & Obsessed
+- Product mindset: Product Market Fit, Product Strategy, Analytics, GTM Strategy, & Customer Acquisition, Onboarding, & Retention focused.
+- Subareas of interest: Health Data Analytics, Data Sci., AI/ML, automations, etc.
+- Integrations of interest for Healthtech: Remote Patient Monitoring (RPM), Wearables (IoT), & EHR FHIR/HL7, etc.
 - Certied Scrum Product Owner (CSPO)
 - Product Data Analytics Micro-Certification from the Product School
 - Excited to create positive impact via healthtech products
